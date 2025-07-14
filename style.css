@@ -188,7 +188,6 @@ iframe {
 .salto__discos {
   display: flex;
   justify-content: space-around;
-  margin: 30px;
 }
 
 .salto {
@@ -197,7 +196,7 @@ iframe {
 
 nav {
   display: flex;
-  background-color: rgb(38, 185, 185);
+  background-color: rgb(36, 36, 36);
   justify-content: space-around;
   align-items: center;
   height: 80px;
@@ -237,6 +236,11 @@ footer {
 .footer__content {
   padding: 20px;
   padding-top: 70px;
+}
+
+.footer__content p {
+  font-size: 12px;
+  color: rgb(59, 59, 59);
 }
 
 .footer__link {
