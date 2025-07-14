@@ -1,0 +1,41 @@
+
+
+.reproductor { 
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/009/009/962/non_2x/grioovy-psychedelic-wave-background-for-banner-design-retro-60s-70s-psychedelic-pattern-modern-wave-retro-abstract-design-rainbow-60s-70s-hippie-vector.jpg);
+    align-items: center;
+
+}
+
+.reproductor__content img {
+    width: 200px;
+    
+}
+
+iframe {
+
+    width: 350px;
+    padding-top: 35px;
+}
+
+.musica__card--content {
+
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3PM35qKvxkSmotO27I4MkPDOGGr6lw4VX-w&s);
+    background-position: center;
+    display: flex;
+    flex-flow:row wrap;
+    justify-content: space-around;
+    margin: 20px;
+    padding: 40px;
+
+}
+
+.musica__card--content iframe {
+
+     display:inline;
+     background-color: rgba(0, 0, 0, 0.37);
+     height: 200px;
+}
+

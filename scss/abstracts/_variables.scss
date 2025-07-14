@@ -1,0 +1,18 @@
+
+
+// mapa de colores -  map-get($colors, "prymary")
+$colors: (
+    "primary": #860622,
+    "secondary":#9e065a,
+    "header-bg": rgb(33, 44, 54),
+    "footer-bg": #2b3744,
+    "light-gray-tras": #b9b9b988,
+    "border-color": #b9b9b9,
+    "text-color": #333,
+);
+
+
+$breck_points: (
+    "sm":460px,
+    "md":760px,
+);
