@@ -1,7 +1,7 @@
 @use "../abstracts/variables";
 
-footer {
-    background-color: black;
+.footer {
+    background-color: rgb(8, 8, 8);
     color: white;
     display: flex;
     justify-content: space-around;
@@ -11,6 +11,7 @@ footer {
 .footer__content {
     padding: 20px;
     padding-top: 70px;
+    
 }
 
 .footer__content p {
@@ -19,8 +20,8 @@ footer {
 }
 
 .footer__link {
-
     padding-top: 20px;
+    
     
 }
 

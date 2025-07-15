@@ -226,8 +226,8 @@ ul li {
   height: 70px;
 }
 
-footer {
-  background-color: black;
+.footer {
+  background-color: rgb(8, 8, 8);
   color: white;
   display: flex;
   justify-content: space-around;
